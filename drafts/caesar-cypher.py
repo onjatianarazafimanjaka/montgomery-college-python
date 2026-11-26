@@ -1,0 +1,4 @@
+
+def cypher(text, key):
+    
+    

@@ -1,0 +1,55 @@
+{
+  "checked_on": "2026-11-26",
+  "original_python_sources": 80,
+  "python_syntax_pass": 79,
+  "python_syntax_known_drafts": 2,
+  "empty_original_file": 1,
+  "assignment_smoke_checks": [
+    {
+      "program": "assignments/01-cookie-calculator/main.py",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "program": "assignments/02-magic-date/main.py",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "program": "assignments/03-rainfall/main.py",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "program": "assignments/04-ticket-sales/main.py",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "program": "assignments/05-file-average/main.py",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "program": "assignments/05-file-average-exceptions/main.py",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "program": "assignments/06-list-statistics/main.py",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "program": "assignments/06-list-statistics-earlier/main.py",
+      "passed": true,
+      "exit_code": 0
+    },
+    {
+      "program": "assignments/07-date-format/main.py",
+      "passed": true,
+      "exit_code": 0
+    }
+  ],
+  "notes": "81 Python files including one screenshot transcription; empty file parses but is not a completed program. Network reference and screenshot shell transcriptions were not executed."
+}

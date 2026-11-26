@@ -1,0 +1,1365 @@
+[
+  {
+    "path": "reference-examples/10-3-print-experience.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/10_3 print experience.py"
+    ],
+    "sha256": "e8f23fcf81aed3f152252bfabb3a19ab473cdb0da17e6a2628e259e71a0a0eee",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/auto-repair-payroll.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/auto_repair_payroll.py"
+    ],
+    "sha256": "9687f9171a01a1d016c866748240d71f956e67172a5bdc83ea9f00c512e72746",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/average-list.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/average_list.py"
+    ],
+    "sha256": "b257e868fc49602485bd85e15e55c04513b99df8ad4e38094a439a805d55cf8c",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/bad-local.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/bad_local.py"
+    ],
+    "sha256": "8a158e1c3f8a6822b04c5311ae040dd2a135318a4adc412482514976e406661b",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "drafts/caesar-cypher.py",
+    "category": "draft",
+    "source_names": [
+      "_resources/caesar cypher.py"
+    ],
+    "sha256": "7877f25ea0a605fc1e33ca01a1b95a33b45a9b5416707f4551cf9dc361be5d4b",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "expected an indented block after function definition on line 2 (line 4)",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/caesar-r2.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/caesar r2.py"
+    ],
+    "sha256": "656821b532950d56df8c6404e4859155bf603685c9acc497bf824bb45a5e46d7",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/card-hide-1.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/card_hide-1.py"
+    ],
+    "sha256": "6d5cd1f40ef401dd7fe7e094e8c53333e61d8fb6b14cca782ca99922b5b719e2",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/card-hide.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/card_hide.py"
+    ],
+    "sha256": "c3dc00593a3d4f322755ca708d2596cecb4e8e7a94a98738775617a838d782c2",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/concatenate.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/concatenate.py"
+    ],
+    "sha256": "539557774a0a103932107a80e90bcb39af80ef20d6d623bd5e80da7f12c52b48",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/copy-search-coffee-records.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/COPY_search_coffee_records.zip!/COPY_search_coffee_records/COPY_search_coffee_records.py"
+    ],
+    "sha256": "e29ef5018913ab04ff5da9bef12de41b9f54832a4580e574933f7da25ed01d80",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [
+      "2022-11-06 08:42:52"
+    ],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/count-ts.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/count_Ts.py"
+    ],
+    "sha256": "a915527640db0a3f8488d0e5945e2d5813d637fece4af5183e3a9087b8fc170f",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/display-file.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/display_file.zip!/display_file/display_file.py"
+    ],
+    "sha256": "34c967a7a4793117a1239b597e34945d961daa43445ee0bbe5a976d67bb94747",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [
+      "2022-11-06 13:46:58"
+    ],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/display-quote.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/display_quote.py"
+    ],
+    "sha256": "6844fc8be6e152937f44215b3e52974f0f1c48a8265bd0fcf6dcd2e6274cccb6",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/drop-lowest-score.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/drop_lowest_score.py"
+    ],
+    "sha256": "87e02084741dbe1d0b5b24e195bdabfbd72bd2534dd61efe842485fb30c9f8e8",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/exception-handling.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/exception_handling.py"
+    ],
+    "sha256": "732a52bce7edafae54bd049b624eeb11c85e7f6f8730db027e025e9a0c215a79",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/formatting.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/formatting.py"
+    ],
+    "sha256": "e869dd19779a17be69069c549d426c72fb32df6fe9c1987463e1b7c81afc98d9",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/function-demo.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/function_demo.py"
+    ],
+    "sha256": "da74e0860b6de5ef6c43b3f70ef2b8218d99a7e94e0e8e7c2c0126c18616ccdf",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/future-value.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/future_value.py"
+    ],
+    "sha256": "2a24abc81584159e346eac920e78f2aa67e5694fe59b74c7f7290074c4d7d9e1",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/gas-mileage.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/gas_mileage.py"
+    ],
+    "sha256": "d4fb839302036b5d7e75518e7be4a2bf44dcbb3ac0c8922e3b6f7e2555d8f25c",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/generate-login-1.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/generate_login(1).py"
+    ],
+    "sha256": "add67468567607517e886d7fc7f1353172c99bb02ff3005c56a51de60ba7d9a3",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/grader.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/grader.py"
+    ],
+    "sha256": "15aafc9127bf2bb10f2997657d39d9f05268818e7a24fdb099e462af79ed20e3",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/gross-pay.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/gross_pay.py"
+    ],
+    "sha256": "8f7821660daefa3325fed48dd41c8236aac71d349a13c6cd95b0c57e712fe4bc",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/hacker-speak.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/hacker_speak.py"
+    ],
+    "sha256": "f544b765ccd7f5ec5339ef16c13abf43d2bc9d5b77845a155ca128cbfd98de8f",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/ica2.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/ICA2.py"
+    ],
+    "sha256": "1b75f0e495ac9e170e6fdd1f68eec1092ffac43e78478862b22e89e9c3d51858",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "assignments/02-magic-date/main.py",
+    "category": "assignment",
+    "source_names": [
+      "_resources/LastNameFirstNamePLab2.py"
+    ],
+    "sha256": "0bb7d0899d9115dc636a74f3686ac2fe61ff5a6a80fddbaf0e91a10449aefe57",
+    "authorship_evidence": "Explicit author header",
+    "course_period": "Fall 2022",
+    "header_due_dates": [
+      "01/22/2022"
+    ],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due-date header conflicts with Fall 2022 course context; preserved without correction",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/line-read.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/line_read.zip!/line_read/line_read.py"
+    ],
+    "sha256": "773970440c8fa3c6bb5d712214c14c3606fc4326353a89fa33a6c52be835d31d",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [
+      "2022-11-06 13:52:18"
+    ],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/loan-qualifier2.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/loan_qualifier2.py"
+    ],
+    "sha256": "f0357f314fa294cc416eaa1633f5630d18c3ea89eb893d882aa286b74c8e1620",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/login.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/login.py"
+    ],
+    "sha256": "e5a12d079356641cee0f6672fff66e3057ba074e8434309e051c526a516ceef7",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/midtermexampractice.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/midtermexampractice.py"
+    ],
+    "sha256": "658097889e78c9788d88a67d3adad85c4cb216e81f6d976005bd98739bc7f8f9",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/myfirstpythonprogram.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/myFirstPythonProgram.py"
+    ],
+    "sha256": "8e46650cd333ba58b29c471bc184be10d81114ae2b5085a7fdb51b605116361c",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/output.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/output.py"
+    ],
+    "sha256": "23de57eda0d9aea25057c0d4d692f3b8e69e1329de3212d5417352f072b2f903",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "assignments/06-list-statistics-earlier/main.py",
+    "category": "assignment",
+    "source_names": [
+      "_resources/PA.zip!/PA/RAZAFIMANJAKA Onjatiana PLab6.py",
+      "_resources/RAZAFIMANJAKA Onjatiana PLab6.py"
+    ],
+    "sha256": "767ef112453df3b1ec085ce85b0277196b04b18ec4056f44705933414dfb0e91",
+    "authorship_evidence": "Explicit author header",
+    "course_period": "Fall 2022",
+    "header_due_dates": [
+      "01/21/2022"
+    ],
+    "zip_entry_timestamps": [
+      "2022-11-16 18:19:22"
+    ],
+    "creation_date": null,
+    "date_note": "Due-date header conflicts with Fall 2022 course context; preserved without correction",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/password.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/password.py"
+    ],
+    "sha256": "466a5e559d87e96b224c54a09fe98ae3ad97ebbda07d5303e36fc864cc736942",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/plist.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/plist.py"
+    ],
+    "sha256": "57d61220a6e0a9134b6a5891b5493cbcdcdb85588b1804ff5aca390f38f787d3",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "drafts/programassignment7.py",
+    "category": "draft",
+    "source_names": [
+      "_resources/ProgramAssignment7.py"
+    ],
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/property-tax.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/property_tax.py"
+    ],
+    "sha256": "d89761f99334c180df5f5b200ba4210000e904611c162ca89497a7bf70fd94c5",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/random-numbers.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/random_numbers.py"
+    ],
+    "sha256": "32a6daee698611369cea2434b26db50a4bf836c72b702f95177c7deaa28e66ae",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "classwork/razafimanjaka-onjatiana-cipher.py",
+    "category": "classwork",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA Onjatiana Cipher.py"
+    ],
+    "sha256": "bb6470dd0ac74f4df10fe3ed315b5ba73c19e443adf2d96494fa18a24ee0ea81",
+    "authorship_evidence": "Personal name in filename; may include adapted class examples",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "classwork/razafimanjaka-onjatiana-cw-ch7-3.py",
+    "category": "classwork",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA Onjatiana CW Ch7_3.py"
+    ],
+    "sha256": "878e6d345a04088c65cd253de9c726c72863e02fa4735957a0a3dc922c704162",
+    "authorship_evidence": "Personal name in filename; may include adapted class examples",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "classwork/razafimanjaka-onjatiana-ica-write.py",
+    "category": "classwork",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA Onjatiana ICA Write.py"
+    ],
+    "sha256": "e13c90906108f2a94a65ae7558955cfc20bfa86f6fa4d537f0e8ef86fee29855",
+    "authorship_evidence": "Personal name in filename; may include adapted class examples",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "classwork/razafimanjaka-onjatiana-ica.py",
+    "category": "classwork",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA Onjatiana ICA.py"
+    ],
+    "sha256": "764643d2e8eb4e0745081fa92208164dbfcda44735c72a765b951b51fd4daaf5",
+    "authorship_evidence": "Personal name in filename; may include adapted class examples",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "classwork/razafimanjaka-onjatiana-labipaddressvalidation.py",
+    "category": "classwork",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA Onjatiana LabIPAddressValidation.py"
+    ],
+    "sha256": "4c66e9ecb5b9d922b309b2cc6c09e486a60ef0e0513caf9671b3e18fce98b681",
+    "authorship_evidence": "Personal name in filename; may include adapted class examples",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "assignments/07-date-format/main.py",
+    "category": "assignment",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA Onjatiana PA 7.py"
+    ],
+    "sha256": "7bb83ceaa2524a81fc98928f72c8abd0988677583e264bffbe9a0398452d80f3",
+    "authorship_evidence": "Explicit author header",
+    "course_period": "Fall 2022",
+    "header_due_dates": [
+      "12/01/2022"
+    ],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "classwork/razafimanjaka-onjatiana-pa7-prep.py",
+    "category": "classwork",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA Onjatiana PA7 Prep.py"
+    ],
+    "sha256": "2c72824c587425640f24ce83b6aa773d2e2a0dc6517b887af4643038199d2739",
+    "authorship_evidence": "Personal name in filename; may include adapted class examples",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "assignments/06-list-statistics/main.py",
+    "category": "assignment",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA Onjatiana PLab6-1.py"
+    ],
+    "sha256": "2061fc5ae58922bf6aab974baafb0d5e9cececc804f84d92e945a52f6523d4d3",
+    "authorship_evidence": "Explicit author header",
+    "course_period": "Fall 2022",
+    "header_due_dates": [
+      "01/21/2022"
+    ],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due-date header conflicts with Fall 2022 course context; preserved without correction",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "assignments/05-file-average/main.py",
+    "category": "assignment",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA Onjatiana Programming Assignment 5-1.zip!/RAZAFIMANJAKA Onjatiana Programming Assignment 5-1/RAZAFIMANJAKA Onjatiana Programming Assignment 5_1.py"
+    ],
+    "sha256": "2a615a15540dcb2e2f89a1cc38491aa6c9b11cde9e5c151d9c292f1f410c96eb",
+    "authorship_evidence": "Explicit author header",
+    "course_period": "Fall 2022",
+    "header_due_dates": [
+      "11/07/2022"
+    ],
+    "zip_entry_timestamps": [
+      "2022-11-03 20:19:06"
+    ],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "assignments/05-file-average-exceptions/main.py",
+    "category": "assignment",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA Onjatiana Programming Assignment 5-2.zip!/RAZAFIMANJAKA Onjatiana Programming Assignment 5-2/RAZAFIMANJAKA Onjatiana Programming Assignment 5_2.py"
+    ],
+    "sha256": "8a5f80307baf9f8b65c446c3196433365ef90bd695e00fbdd7ccdef955f73186",
+    "authorship_evidence": "Explicit author header",
+    "course_period": "Fall 2022",
+    "header_due_dates": [
+      "11/07/2022"
+    ],
+    "zip_entry_timestamps": [
+      "2022-11-07 10:54:20"
+    ],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "classwork/razafimanjaka-onjatiana-ica-funtions.py",
+    "category": "classwork",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA_Onjatiana_ICA_Funtions.py",
+      "_resources/RAZAFIMANJAKA_Onjatiana_ICA_Funtions2.py"
+    ],
+    "sha256": "446835c514d21260f3200bfc17090e7f8dcbd682d9881af4f25acfb0b0ec0d73",
+    "authorship_evidence": "Personal name in filename; may include adapted class examples",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "assignments/04-ticket-sales/main.py",
+    "category": "assignment",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA_Onjatiana_PA_4.py"
+    ],
+    "sha256": "5a129498a0fcb0dacac48a18c4939dc3dd54dc56369c2457f9230fa14c304e03",
+    "authorship_evidence": "Explicit author header",
+    "course_period": "Fall 2022",
+    "header_due_dates": [
+      "10/25/2022"
+    ],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "assignments/01-cookie-calculator/main.py",
+    "category": "assignment",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA_Onjatiana_PLab1.py"
+    ],
+    "sha256": "27e94c87ce5f13f2dfe88bfc2875688b685cdaf6d96d0b93e7378734812ec987",
+    "authorship_evidence": "Explicit author header",
+    "course_period": "Fall 2022",
+    "header_due_dates": [
+      "09/12/2022"
+    ],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "assignments/03-rainfall/main.py",
+    "category": "assignment",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA_Onjatiana_PLab3.py"
+    ],
+    "sha256": "060a51aebcb619d00a3591cb1840fd6a3cba0dc007a4b70065ff8c32289b060a",
+    "authorship_evidence": "Explicit author header",
+    "course_period": "Fall 2022",
+    "header_due_dates": [
+      "10/10/2022"
+    ],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "drafts/razafimanjaka-onjatiana-plab6-cw-5-1.py",
+    "category": "draft",
+    "source_names": [
+      "_resources/RAZAFIMANJAKA_Onjatiana_PLab6_CW 5.1.py"
+    ],
+    "sha256": "8e6421f4347803c6e7a877fd3e0aa9ef16518fc5faa707531ff7578c80cacbad",
+    "authorship_evidence": "Personal name in filename; may include adapted class examples",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "expected an indented block after function definition on line 20 (line 23)",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/read-list.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/read_list.py"
+    ],
+    "sha256": "2576d88390736946044c990617583eac0b238735f8e69362080926b34d8b8a4e",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/repetition-operator.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/repetition_operator.py"
+    ],
+    "sha256": "ba2e924590c3009d164bbf63b63e6cf18c2f3dd86d02db691d45079b6dc3d65b",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/retail-with-validation.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/retail_with_validation.py"
+    ],
+    "sha256": "3aa8d0acef59bb911d7a4863fc9f00672d0275e3af61b9925e779b420d634ddb",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/sales-report1.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/sales_report1.zip!/sales_report1/sales_report1.py"
+    ],
+    "sha256": "2b2277f184f09b3ce8829f8e024ac9aaaba2f96de5a2ca833a0330f4252861fb",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [
+      "2022-11-06 08:42:48"
+    ],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/sale-price.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/sale_price.py"
+    ],
+    "sha256": "310e28505a7334a52bf7127b152fec8d75c6348ba634f210fe7c52dfd37526f3",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/simple-loop2.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/simple_loop2.py"
+    ],
+    "sha256": "8d3beb588afca089a3eed041dcd4b02ad90d88c27f2e6fe86f8ba2082b482701",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/sort-names.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/sort_names.py"
+    ],
+    "sha256": "16258eb496e24e7618beace6aa7573c9c2ddb0010c7723f7f97d3b16af076c4e",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/stringspractice.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/stringspractice.py"
+    ],
+    "sha256": "229a040ea8b56a9ef50bcace5b9e02d06662b2ab69eda5f00d71ccfe27de6fbf",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/string-split.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/string_split.py"
+    ],
+    "sha256": "4785891e9913fd48714f22ca9e2f0c1cc2d5de4538f67083537e660206bbea7e",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/string-test.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/string_test.py"
+    ],
+    "sha256": "56c387599a0c1716a485c111f77098d5bbd62c0263630a32d7ca7c293787cfad",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/temperature.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/temperature.py"
+    ],
+    "sha256": "bc5b99a10a0c2c6ea7d585e44909e4b685e7a506763dc881fc64724971764bc0",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/test-1.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/test-1.py"
+    ],
+    "sha256": "58c4af455b192f6a74abfc4c2c2fd66a4056a01a4df21155985d1827bf7497d8",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/test.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/test.py"
+    ],
+    "sha256": "977b40db4783d7005fc831ab27bf74cc286ff8efa885cb003452094000c57934",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/test-scores.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/test_scores.py"
+    ],
+    "sha256": "2393376255fc3a58cfb104fe5d7b3dcc9550609b26c0068cc871deabaf8c661b",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/test-score-average.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/test_score_average.py"
+    ],
+    "sha256": "75e20a3bafcff6388e714f6a1c2590e9209859f21932f83aac2527dfd18ff931",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/text.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/text.py"
+    ],
+    "sha256": "0f34d1bace2b5d637f47f18182ebb4bc98a6c1dc8c9242df06a43a277b90ed97",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/today.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/today.py"
+    ],
+    "sha256": "badc8b851eb1c06ef4c17313f5e1cce540e6ba9bcab22f880714a21a37bea368",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/total-ages.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/total_ages.py"
+    ],
+    "sha256": "250d75b6db823bf4e8f6d80a7507fb5f73244ab261d380232af7227295e22ef6",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/txt.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/txt.py"
+    ],
+    "sha256": "edde1b50615e7899d7e63ca7681f4b255f830b437ff6fc671c1a408aeae9cc1b",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/udp-server-5.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/udp_server_5.py"
+    ],
+    "sha256": "1b3ea64b5713445d87dfb94fa2cf40715e2680cc3972ea5fab10864e72a684c8",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": [
+      "network_or_process"
+    ]
+  },
+  {
+    "path": "reference-examples/user-squares1.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/user_squares1.py"
+    ],
+    "sha256": "5d13af91b82480c08976f351743bde2ad46d6619995890664a8751fbc1ffc237",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/validate-password.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/validate_password.py"
+    ],
+    "sha256": "ce24d1ef1b436c430390eb6ac5f8e01d84c86a8c05114c05a8e947895be07bf8",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/variable-demo3.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/variable_demo3.py"
+    ],
+    "sha256": "f2ca50ec5b45ebbb7be4f486dba153b415c24be7c1fe1d2dcc3d33854a3fc716",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/whileloop-9-26.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/whileLoop 9_26.py",
+      "_resources/whileLoop 9_28.py",
+      "_resources/whileLoopTotal 9_26.py",
+      "_resources/whileLoopTotal 9_28.py"
+    ],
+    "sha256": "b17b6a0a13e059bf61d063088ccc8d83f744b53d2f7c350bbd3fed08329580a8",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/writelines.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/writelines.py"
+    ],
+    "sha256": "81d8cff2b1592bad85e745c1606a4ab2db714c48ae37b203cba426065595b5ed",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/write-list.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/write_list.py"
+    ],
+    "sha256": "d81fb43819f8da9a0fb02a1d218ae66d9681acf0337b9bd82ccbfcbc223da643",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/write-names.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/write_names.zip!/write_names/write_names.py"
+    ],
+    "sha256": "bb2f3f5ee57c1de541b7dda1d7550ec5787cf5e8113917add73be58de7490c03",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [
+      "2022-11-06 08:42:50"
+    ],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "reference-examples/write-number-list.py",
+    "category": "reference",
+    "source_names": [
+      "_resources/write_number_list.py"
+    ],
+    "sha256": "4bda2e758d5503d9b3d22023ca74aa7cf8c22758e2f6507ce10b6daffd801c65",
+    "authorship_evidence": "Course attachment; original authorship not claimed",
+    "course_period": "Fall 2022",
+    "header_due_dates": [],
+    "zip_entry_timestamps": [],
+    "creation_date": null,
+    "date_note": "Due dates and ZIP timestamps are provenance, not confirmed creation dates",
+    "syntax": "pass",
+    "flags": []
+  },
+  {
+    "path": "recovered-from-screenshots/2022-09-19-hello.py",
+    "category": "screenshot-transcription",
+    "source_names": [
+      "RAZAFIMANJAKA_OnjatianaCW_Ch2_2_GettingStartedWith.docx"
+    ],
+    "sha256": "6075c051cc5f23ddd8926338be443cf2b28ee2422f41d0203acd005c8d1fe635",
+    "authorship_evidence": "Student report screenshot; manual transcription of the visible code/commands",
+    "course_period": "Fall 2022",
+    "screenshot_capture_date": "2022-09-19",
+    "creation_date": null,
+    "date_note": "Date visible in the screenshot, not a proven source-file creation date",
+    "syntax": "pass"
+  },
+  {
+    "path": "related-scripting/2023-04-20-fun-with-scripts.sh",
+    "category": "screenshot-transcription",
+    "source_names": [
+      "Onjatiana Razafimanjaka _ Shell Scripting with a T.docx"
+    ],
+    "sha256": "128256ded9bd159a5aecab679397e75f41db330c7934b9988c03f4265616e3a8",
+    "authorship_evidence": "Student report screenshot; manual transcription of the visible code/commands",
+    "course_period": "2023 Linux coursework",
+    "screenshot_capture_date": "2023-04-20",
+    "creation_date": null,
+    "date_note": "Date visible in the screenshot, not a proven source-file creation date",
+    "syntax": "not-python"
+  },
+  {
+    "path": "related-scripting/2022-10-18-powershell-automatic-variables.ps1",
+    "category": "screenshot-transcription",
+    "source_names": [
+      "RAZAFIMANJAKA_Onjatiana_CW Ch 5_2Lab_PowerShell_Va.docx"
+    ],
+    "sha256": "415097d1d84a9450355fa62358b464251eb958404cabc79ae294ca4b9b3fbf30",
+    "authorship_evidence": "Student report screenshot; manual transcription of the visible code/commands",
+    "course_period": "Fall 2022",
+    "screenshot_capture_date": "2022-10-18",
+    "creation_date": null,
+    "date_note": "Date visible in the screenshot, not a proven source-file creation date",
+    "syntax": "not-python"
+  }
+]
